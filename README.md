@@ -1,81 +1,130 @@
-
 <h1 align="center">Hi 👋, I'm Nikhilendar Sai</h1>
-<h3 align="center">Full Stack Developer • Python Developer • AI Enthusiast</h3>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Application Developer
+</h3>
+
+<p align="center">
+Building scalable web applications with React, Node.js, Python and AI technologies.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/t-nikhiendar-sai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:nikhilendarsai119@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate (Electrical & Electronics Engineering)
-- 💻 Full Stack Developer
-- 🤖 Building AI-powered applications
-- 🌱 Currently learning **System Design**, **DSA**, and **Cloud**
-- 🚀 Open to **SDE-1 Opportunities**
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,html,css,mysql,mongodb,sqlite,git,github,vscode,postman,fastapi&perline=8" />
-</p>
+- 🎓 B.Tech Graduate in Electrical & Electronics Engineering
+- 💻 Full Stack Developer specializing in React.js, Node.js and Python
+- 🤖 Passionate about AI-powered applications and intelligent automation
+- 🚀 Interested in Backend Engineering, System Design and Cloud Technologies
+- 🌱 Currently improving Data Structures & Algorithms
+- 💼 Open to Software Engineer / SDE-1 opportunities
 
 ---
 
-### 🤖 AI Stack
+## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-<p align="center">
+### Frontend
 
-`LangChain` • `ChromaDB` • `RAG` • `Prompt Engineering` • `Generative AI` • `Agentic AI`
-
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
----
+### Backend
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TNS119&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNS119&layout=compact&theme=github_dark&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TNS119&theme=github-dark&hide_border=true"/>
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
----
+### Tools
 
-### 🏆 GitHub Activity
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TNS119&theme=darkhub&margin-w=10&no-frame=true&row=1"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
+### AI & LLM
 
-### 📊 Contribution Graph
+<p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TNS119&theme=github-dark"/>
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4285F4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=flat-square)
+
 </p>
 
 ---
 
+# 🚀 Featured Project
+
+## 📄 AI-Powered PDF Chat Application
+
+AI-powered document assistant capable of answering questions from uploaded PDFs using Retrieval-Augmented Generation (RAG).
+
+**Tech Stack**
+
+React • Node.js • Express.js • FastAPI • MongoDB • ChromaDB • LangChain • Python
+
+**Key Features**
+
+- Session-based chat
+- REST APIs
+- MongoDB chat history
+- Vector search
+- AI-powered document understanding
+
+---
+
+## 📚 Currently Learning
+
+- System Design
+- Data Structures & Algorithms
+- Cloud Deployment
+- Building LLMs
+- Developing AI Agents
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="mailto:nikhilendarsai119@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/t-nikhiendar-sai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <p align="center">
 
-*"Code. Learn. Improve. Repeat."*
+*"Always learning. Always building."*
 
 </p>
