@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Nikhilendar Sai</h1>
 <h3 align="center">Full Stack Developer • Python Developer • AI Enthusiast</h3>
 
@@ -89,4 +89,3 @@
 *"Code. Learn. Improve. Repeat."*
 
 </p>
-```
