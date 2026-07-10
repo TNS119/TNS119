@@ -26,7 +26,6 @@ Building scalable web applications with React, Node.js, Python and AI technologi
 - 💻 Full Stack Developer specializing in React.js, Node.js and Python
 - 🤖 Passionate about AI-powered applications and intelligent automation
 - 🚀 Interested in Backend Engineering, System Design and Cloud Technologies
-- 🌱 Currently improving Data Structures & Algorithms
 - 💼 Open to Software Engineer / SDE-1 opportunities
 
 ---
