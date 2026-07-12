@@ -9,11 +9,11 @@ Building scalable web applications with React, Node.js, Python and AI technologi
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/t-nikhiendar-sai">
+  <a href="https://linkedin.com/in/t-nikhiendar-sai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:nikhilendarsai119@gmail.com">
+  <a href="mailto:nikhilendarsai119@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -110,11 +110,11 @@ React • Node.js • Express.js • FastAPI • MongoDB • ChromaDB • LangCh
 
 <p align="left">
 
-<a href="mailto:nikhilendarsai119@gmail.com" targrt="_blank">
+<a href="mailto:nikhilendarsai119@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/t-nikhiendar-sai" targrt="_blank">
+<a href="https://linkedin.com/in/t-nikhiendar-sai" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
